@@ -1,6 +1,6 @@
 # Structured Loans
 
-Abstract 
+Abstract   
   A structured loan is 
   
 References:  
